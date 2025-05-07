@@ -13,3 +13,7 @@ Proyecto Conversor de monedas desarrollado en java para el Challenge de Alura On
     Peru SOL)
 -   Conversión inverso
 -   Historial
+
+## Desarrollado
+
+- [@jhuina](https://github.com/jhuina/)
